@@ -51,7 +51,7 @@ The tool used is Power Bi. The project description includes the following steps:
 4. Sales Trends: It is observed that within the year in consideration, sales peaked in December with a total of $4.61m followed by October with $3.74m and April with $3.39m, 72% of the generated revenue was during the week as compared to the weekends
 5. Most certainly, the top-selling product was
 
-# 2. Diabetic-Patients-MeriSkill
+# Diabetic-Patients-MeriSkill
 
 ### About Dataset:
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether a patient has diabetes based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
