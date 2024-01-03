@@ -8,6 +8,12 @@ These projects, centered within the realm of data analytics, are meticulously de
 2. Diabetic Patients: Exploring the intricacies of diabetic patient data to identify trends and patterns that can aid in improving healthcare outcomes.
    
 3. HR Analytics: Delving into the world of human resources, with a keen eye on data analysis to optimize talent management and organizational performance.
+
+## Table of Contents
+- [Sales Analysis](#Sales-Data-Analysis-MeriSkill)
+- [Diabetic Patients](#Diabetic-Patients-MeriSkill)
+- [HR Analytics](#HR-Analytics-MeriSkill)
+
    
 # Sales-Data-Analysis-MeriSkill
 
