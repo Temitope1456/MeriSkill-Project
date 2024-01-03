@@ -14,7 +14,7 @@ These projects, centered within the realm of data analytics, are meticulously de
 - [Diabetic Patients](#Diabetic-Patients-MeriSkill)
 - [HR Analytics](#HR-Analytics-MeriSkill)
 
-   
+
 # Sales-Data-Analysis-MeriSkill
 
 ### PURPOSE:
